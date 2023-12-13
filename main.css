@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin-top: 3px;
+    padding-top: 3px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    font-family:'Lucida Sans','Lucida Sans Regular';
+}
+/* main.css */
+
+body {
+    background-color: #bcf0fb;
+}
+
+.navbar {
+    background-color: #007bff; 
+}
+
+.card1 {
+    border: solid #475669; 
+    border-width: 25px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card2 {
+    border: solid #475669; 
+    border-width: 25px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card3 {
+    border: solid #475669;
+    border-width: 25px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    color: #28a745; 
+}
+
+.card-footer {
+    background-color: #20476f; 
+        color: #b9dff6;
+}
+.img1
+{
+    float: right;
+    height:450px;
+    width:800px;
+}
+.mainparagraph {
+    text-wrap: left;
+    
+    
+}
